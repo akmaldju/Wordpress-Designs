@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 25 Jan 2020 13:26:59 at http://localhost/wprestaraunt.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/wprestaraunt.com/ -O1 "C:\My Web Sites\wprestaraunt" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:30:08	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/pic28-free-img.jpg (from localhost/wprestaraunt.com/wp-content/uploads/elementor/css/post-8.css?ver=1578762403)
+13:30:08	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/food-table-meet.jpg (from localhost/wprestaraunt.com/wp-content/uploads/elementor/css/post-8.css?ver=1578762403)
+13:30:08	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/slider3.jpg (from localhost/wprestaraunt.com/wp-content/uploads/elementor/css/post-8.css?ver=1578762403)
+13:30:08	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/quotes2-free-img.png (from localhost/wprestaraunt.com/wp-content/uploads/elementor/css/post-8.css?ver=1578762403)
+13:30:08	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/Prepare-dish-img.jpg (from localhost/wprestaraunt.com/wp-content/uploads/elementor/css/post-550.css?ver=1578761554)
+13:30:11	Warning: 	Moved Permanently for localhost/wprestaraunt.com/?p=10
+13:30:11	Warning: 	File has moved from localhost/wprestaraunt.com/?p=10 to http://localhost/wprestaraunt.com/menu/
+13:30:21	Warning: 	Moved Permanently for localhost/wprestaraunt.com/?p=9
+13:30:21	Warning: 	File has moved from localhost/wprestaraunt.com/?p=9 to http://localhost/wprestaraunt.com/about-us/
+13:30:21	Warning: 	Moved Permanently for localhost/wprestaraunt.com/?p=11
+13:30:21	Warning: 	File has moved from localhost/wprestaraunt.com/?p=11 to http://localhost/wprestaraunt.com/contact/
+13:30:21	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/Restaurant-menu-banner.jpg (from localhost/wprestaraunt.com/wp-content/uploads/elementor/css/post-10.css?ver=1578748211)
+13:30:21	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/pic48-free-img.jpg (from localhost/wprestaraunt.com/wp-content/uploads/elementor/css/post-10.css?ver=1578748211)
+13:30:21	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/try.jpg (from localhost/wprestaraunt.com/wp-content/uploads/elementor/css/post-10.css?ver=1578748211)
+13:30:21	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/blog-bg-free-img.jpg (from localhost/wprestaraunt.com/wp-content/uploads/elementor/css/post-10.css?ver=1578748211)
+13:30:21	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/Resturanrt-banner.jpg (from localhost/wprestaraunt.com/wp-content/uploads/elementor/css/post-10.css?ver=1578748211)
+13:30:21	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/About-us-banner.jpg (from localhost/wprestaraunt.com/wp-content/uploads/elementor/css/post-9.css?ver=1578748217)
+13:30:21	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/chef01-free-img.jpg (from localhost/wprestaraunt.com/wp-content/uploads/elementor/css/post-9.css?ver=1578748217)
+13:30:21	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/chef02-free-img.jpg (from localhost/wprestaraunt.com/wp-content/uploads/elementor/css/post-9.css?ver=1578748217)
+13:30:21	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/chef04-free-img.jpg (from localhost/wprestaraunt.com/wp-content/uploads/elementor/css/post-9.css?ver=1578748217)
+13:30:21	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/chef07-free-img.jpg (from localhost/wprestaraunt.com/wp-content/uploads/elementor/css/post-9.css?ver=1578748217)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 22 seconds : 129 links scanned, 110 files written (6993984 bytes overall) [7060625 bytes received at 34953 bytes/sec], 2.9 requests per connection
+(15 errors, 6 warnings, 0 messages)

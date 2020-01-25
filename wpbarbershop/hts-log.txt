@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 25 Jan 2020 13:59:26 at http://localhost/wpbarbershop.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/wpbarbershop.com/ -O1 "C:\My Web Sites\wpbarbershop" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:04:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/bg-img-06-free-img.jpg (from localhost/wpbarbershop.com/wp-content/uploads/elementor/css/post-165.css?ver=1578813840)
+14:05:02	Warning: 	Moved Permanently for localhost/wpbarbershop.com/?p=10
+14:05:02	Warning: 	File has moved from localhost/wpbarbershop.com/?p=10 to http://localhost/wpbarbershop.com/about/
+14:05:03	Warning: 	Moved Permanently for localhost/wpbarbershop.com/?p=12
+14:05:03	Warning: 	File has moved from localhost/wpbarbershop.com/?p=12 to http://localhost/wpbarbershop.com/barbers/
+14:05:04	Warning: 	Moved Permanently for localhost/wpbarbershop.com/?p=11
+14:05:04	Warning: 	File has moved from localhost/wpbarbershop.com/?p=11 to http://localhost/wpbarbershop.com/gallery/
+14:05:50	Warning: 	Moved Permanently for localhost/wpbarbershop.com/?p=13
+14:05:50	Warning: 	File has moved from localhost/wpbarbershop.com/?p=13 to http://localhost/wpbarbershop.com/contact/
+14:05:50	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/bg-img-08-free-img.jpg (from localhost/wpbarbershop.com/wp-content/uploads/elementor/css/post-10.css?ver=1579931994)
+14:05:50	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/bg-img-07-free-img.jpg (from localhost/wpbarbershop.com/wp-content/uploads/elementor/css/post-10.css?ver=1579931994)
+14:05:50	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/bg-img-09-free-img.jpg (from localhost/wpbarbershop.com/wp-content/uploads/elementor/css/post-12.css?ver=1579931994)
+14:05:50	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/bg-img-11-free-img.jpg (from localhost/wpbarbershop.com/wp-content/uploads/elementor/css/post-11.css?ver=1579931995)
+14:05:50	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/bg-img-10-free-img.jpg (from localhost/wpbarbershop.com/wp-content/uploads/elementor/css/post-13.css?ver=1579932003)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 24 seconds : 124 links scanned, 113 files written (12138293 bytes overall) [12309117 bytes received at 32054 bytes/sec], 2.0 requests per connection
+(6 errors, 8 warnings, 0 messages)

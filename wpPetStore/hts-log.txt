@@ -1,0 +1,39 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 25 Jan 2020 13:55:26 at http://localhost/wppetstore.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/wppetstore.com/ -O1 "C:\My Web Sites\wpPetStore" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:58:31	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/app-design-free-img-1.png (from localhost/wppetstore.com/)
+13:58:31	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/favicon-free-img-1.png (from localhost/wppetstore.com/)
+13:58:40	Warning: 	Moved Permanently for https://cdnjs.cloudflare.com/robots.txt
+13:58:40	Warning: 	File has moved from https://cdnjs.cloudflare.com/robots.txt to http://www.cdnjs.com/
+13:58:48	Warning: 	Moved Permanently for localhost/wppetstore.com/?p=16
+13:58:48	Warning: 	File has moved from localhost/wppetstore.com/?p=16 to http://localhost/wppetstore.com/about-us/
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/founders-free-img.jpg (from localhost/wppetstore.com/about-us/)
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/founders2-free-img.jpg (from localhost/wppetstore.com/about-us/)
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/teammate3-free-img-1.png (from localhost/wppetstore.com/about-us/)
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/teammate2-free-img-1.png (from localhost/wppetstore.com/about-us/)
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/teammate1-free-img-1.png (from localhost/wppetstore.com/about-us/)
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2020/01/footer-dog-free-img-1-214x300-2.png (from localhost/wppetstore.com/about-us/)
+13:58:48	Warning: 	Moved Permanently for localhost/wppetstore.com/?p=18
+13:58:48	Warning: 	File has moved from localhost/wppetstore.com/?p=18 to http://localhost/wppetstore.com/services/
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/pet-with-girl-free-img.png (from localhost/wppetstore.com/services/)
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/sitting-free-img.png (from localhost/wppetstore.com/services/)
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/minding-free-img.png (from localhost/wppetstore.com/services/)
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/training-free-img.png (from localhost/wppetstore.com/services/)
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/grooming-free-img.png (from localhost/wppetstore.com/services/)
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/food-pot-free-img.png (from localhost/wppetstore.com/services/)
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/food-free-img.png (from localhost/wppetstore.com/services/)
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/heart-free-img.png (from localhost/wppetstore.com/services/)
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/ball-free-img.png (from localhost/wppetstore.com/services/)
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/collar-free-img.png (from localhost/wppetstore.com/services/)
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/video-bg-free-img.jpg (from localhost/wppetstore.com/services/)
+13:58:48	Warning: 	Moved Permanently for localhost/wppetstore.com/?p=20
+13:58:48	Warning: 	File has moved from localhost/wppetstore.com/?p=20 to http://localhost/wppetstore.com/contact-us/
+13:58:48	Error: 	"Not Found" (404) at link localhost/wptest.com/wp-content/uploads/2019/07/founders3-free-img-2.jpg (from localhost/wppetstore.com/contact-us/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 21 seconds : 103 links scanned, 78 files written (7204636 bytes overall) [7548179 bytes received at 37553 bytes/sec], 170043 bytes transferred using HTTP compression in 2 files, ratio 30%, 2.6 requests per connection
+(20 errors, 8 warnings, 0 messages)
